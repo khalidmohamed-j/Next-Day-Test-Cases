@@ -1,13 +1,17 @@
 # NextDay
 NextDay
 
-Next Day Rules
+**Next Day Rules**
 
 •Input: any valid date between 1/1/1818 and 12/31/2021
 
-•Output: the next calendar day•Special considerations:
+•Output: the next calendar day
 
-•Some months have 30 days•Some months have 31 days
+**•Special considerations:**
+
+•Some months have 30 days
+
+•Some months have 31 days
 
 •February always has at least 28 days
 
