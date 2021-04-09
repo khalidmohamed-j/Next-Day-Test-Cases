@@ -1,0 +1,27 @@
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.deps.json
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.dll
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.pdb
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.csprojAssemblyReference.cache
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.AssemblyInfo.cs
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.dll
+C:\Users\denni\OneDrive\2021.01 ISIT 324\Programs\08 - Web Automation\ExampleNextDatre\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.deps.json
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.csprojAssemblyReference.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.AssemblyInfo.cs
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.deps.json
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\bin\Debug\netcoreapp3.1\ExampleNextDate.pdb
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.csprojAssemblyReference.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.AssemblyInfo.cs
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.dll
+C:\Users\khali\Documents\Classes\Winter 2021\ISIT 324 - Software Testing\07 - Test Design\ExampleNextDat\ExampleNextDate\ExampleNextDate\obj\Debug\netcoreapp3.1\ExampleNextDate.pdb

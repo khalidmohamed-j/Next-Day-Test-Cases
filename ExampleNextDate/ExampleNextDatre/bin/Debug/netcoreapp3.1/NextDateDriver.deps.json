@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NextDateDriver/1.0.0": {
+        "dependencies": {
+          "ExampleNextDate": "1.0.0"
+        },
+        "runtime": {
+          "NextDateDriver.dll": {}
+        }
+      },
+      "ExampleNextDate/1.0.0": {
+        "runtime": {
+          "ExampleNextDate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NextDateDriver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExampleNextDate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
