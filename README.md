@@ -1,7 +1,7 @@
 # NextDay
 NextDay
 
-**Next Day Test cases**
+**Next Day Test Cases**
 
 •Input: any valid date between 1/1/1818 and 12/31/2021
 
